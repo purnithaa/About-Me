@@ -22,7 +22,7 @@
 
 ```python
 purnithaa = {
-    "role"       : "II B.Sc. Computer Science with Data Analytics Student",
+    "role"       : "III B.Sc. Computer Science with Data Analytics Student",
     "college"    : "Dr. N.G.P. Arts and Science College, Coimbatore",
     "passion"    : ["Machine Learning", "NLP", "Full-Stack Development"],
     "published"  : "CIMA'26 — SRM Institute (with Universiti Kebangsaan Malaysia)",
